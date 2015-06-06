@@ -1,0 +1,48 @@
+/* style sheet for templates html to system module */
+
+/* ------------------------ BLOCKS TEMPLATES SYSTEM MODULE ------------------------ */
+/*============== Styles for system_siteclosed.html =================*/
+#xo-siteclose {
+	width:							400px;
+	margin:							100px auto;
+	background-color:				#e2e2e2;
+	padding:							30px;
+	color:							#000;
+	font-size: 						1.2em;
+	font-weight: 					bold;
+	text-align: 					center;
+	border:							1px solid #666;
+}
+/*============== Styles for system_redirect.html =================*/
+#xo-redirect {
+	width:							780px;
+	margin:							50px auto;
+	padding:							1em;
+	font-weight:					bold;
+	text-align:						center;
+}
+#xo-redirect .notreload {
+	height:							28px;
+	background-color:				inherit;
+	padding-top:					2px;
+	color:							#000;
+}
+#xo-redirect .notreload a {
+	background-color: 			inherit;
+	color:							#ff0000;
+	font-weight:					bold;
+	text-decoration: 				none;
+}
+#xo-redirect .message {
+	min-height:						60px;
+	background-color: 			#f3f3f3;
+	padding:							1em;
+	color:							#333;
+	font-size:						1.2em;
+	text-align:						center;
+	border:		 					solid 1px #666;
+}
+#xo-redirect .message img{	padding:	1em;}
+
+
+
